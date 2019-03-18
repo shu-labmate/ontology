@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5c862dbdcc8c63809d89384e"},"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"ontology.env_element"}]}
+{"_id":{"$oid":"5c8e33a2bd80b6787a49dc04"},"evelatname":"321","ontname":"教师管理","conceptlatname":"物质","envlane":"无约束"}
+{"_id":{"$oid":"5c8e382ebd80b6787a49e146"},"evelatname":"555","ontname":"教师管理","conceptlatname":"物质","envlane":"无约束"}
+{"_id":{"$oid":"5c8f1998bd80b6787a4b6e8a"},"evelatname":"qwe","ontname":"教师管理","conceptlatname":"物质","envlane":"无约束"}

@@ -1,0 +1,2 @@
+{"_id":{"$oid":"5c862d62cc8c63809d893834"},"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"ontology.global_setting"}]}
+{"_id":{"$oid":"5c89181766b08f57d4973009"},"oid":1,"name":"evelatsid","value":20}

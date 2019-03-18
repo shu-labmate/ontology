@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5c862beacc8c63809d8937c2"},"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"ontology.user"}]}
+{"_id":{"$oid":"5c87122825093cdcbb4d89a7"},"username":"admin3","password":"123"}
+{"_id":{"$oid":"5c87153525093cdcbb4d89a8"},"userid":123,"username":"admin2","password":"123"}

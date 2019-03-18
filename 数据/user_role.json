@@ -1,0 +1,3 @@
+{"_id":{"$oid":"5c862b9dcc8c63809d8937a4"},"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"ontology.user_role"}]}
+{"_id":{"$oid":"5c8718ab25093cdcbb4d89a9"},"roleid":"1","rolename":"builder","description":"builder"}
+{"_id":{"$oid":"5c8718ab25093cdcbb4d89aa"},"userid":123,"roleid":"2","rolename":"normal_user","description":"normal_user"}

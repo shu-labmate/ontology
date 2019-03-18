@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5c862c35cc8c63809d8937d8"},"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"ontology.time_element"}]}
+{"_id":{"$oid":"5c8e33a15560e01c8049f0d4"},"_class":"com.di.ifin.zeus.admin.bont.pojo.TimeLat","ontname":"教师管理","evelatname":"321","start":"任意","length":"无约束"}
+{"_id":{"$oid":"5c8e382e5560e01c8049f0de"},"_class":"com.di.ifin.zeus.admin.bont.pojo.TimeLat","ontname":"教师管理","evelatname":"555","start":"任意","length":"无约束"}
+{"_id":{"$oid":"5c8f19985560e01df021b01b"},"_class":"com.di.ifin.zeus.admin.bont.pojo.TimeLat","ontname":"教师管理","evelatname":"qwe","start":"任意","length":"无约束"}

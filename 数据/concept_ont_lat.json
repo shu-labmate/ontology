@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5c8e1a065560e011742ad340"},"_class":"com.di.ifin.zeus.admin.bont.pojo.OntLat","ontname":"教师管理","latname":"3233","parentlatname":"root","latnote":"","x":500}
+{"_id":{"$oid":"5c8e28a15560e01c8049f0ce"},"_class":"com.di.ifin.zeus.admin.bont.pojo.OntLat","ontname":"aaa","latname":"ccc","parentlatname":"root","latnote":"","x":500}
+{"_id":{"$oid":"5c8e28cc5560e01c8049f0d0"},"_class":"com.di.ifin.zeus.admin.bont.pojo.OntLat","ontname":"123","latname":"789","parentlatname":"root","latnote":"","x":500}
+{"_id":{"$oid":"5c8e4d57bd80b6787a4a00f0"},"ontname":"123","latname":"u","parentlatname":"root"}

@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5c862d7ecc8c63809d89383b"},"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"ontology.eve_ont_lat"}]}
+{"_id":{"$oid":"5c8e1a065560e011742ad340"},"_class":"com.di.ifin.zeus.admin.bont.pojo.OntLat","ontname":"教师管理","latname":"23132","parentlatname":"root","latnote":"","x":500}
+{"_id":{"$oid":"5c8e28cc5560e01c8049f0d0"},"_class":"com.di.ifin.zeus.admin.bont.pojo.OntLat","ontname":"123","latname":"789","parentlatname":"root","latnote":"","x":500}
+{"_id":{"$oid":"5c8e33995560e01c8049f0d1"},"_class":"com.di.ifin.zeus.admin.bont.pojo.OntLat","ontname":"教师管理","latsid":"e17","latname":"321","parentlatname":"23132","latnote":"note..","x":500}
+{"_id":{"$oid":"5c8e389e5560e01c8049f0e0"},"_class":"com.di.ifin.zeus.admin.bont.pojo.OntLat","ontname":"教师管理","latname":"555","parentlatname":"321","latnote":"note.."}
+{"_id":{"$oid":"5c8f19975560e01df021b018"},"_class":"com.di.ifin.zeus.admin.bont.pojo.OntLat","ontname":"教师管理","latsid":"e19","latname":"qwe","parentlatname":"321","latnote":"note..","x":500}

@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5c862d2fcc8c63809d893821"},"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"ontology.obj_element"}]}

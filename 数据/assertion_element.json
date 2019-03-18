@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5c862e3fcc8c63809d893878"},"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"ontology.assertion_element"}]}
+{"_id":{"$oid":"5c8e339f5560e01c8049f0d3"},"_class":"com.di.ifin.zeus.admin.bont.pojo.AssertionLat","ontname":"教师管理","evelatname":"321","prestate":"无约束","massert":"无约束","poststate":"无约束"}
+{"_id":{"$oid":"5c8e382e5560e01c8049f0dd"},"_class":"com.di.ifin.zeus.admin.bont.pojo.AssertionLat","ontname":"教师管理","evelatname":"555","prestate":"无约束","massert":"无约束","poststate":"无约束"}
+{"_id":{"$oid":"5c8f19985560e01df021b01a"},"_class":"com.di.ifin.zeus.admin.bont.pojo.AssertionLat","ontname":"教师管理","evelatname":"qwe","prestate":"无约束","massert":"无约束","poststate":"无约束"}

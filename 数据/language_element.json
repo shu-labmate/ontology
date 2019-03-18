@@ -1,0 +1,4 @@
+{"_id":{"$oid":"5c862d48cc8c63809d893829"},"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"ontology.language_element"}]}
+{"_id":{"$oid":"5c8e33a45560e01c8049f0d5"},"_class":"com.di.ifin.zeus.admin.bont.pojo.LanguageLat","ontname":"教师管理","evelatname":"321","triggerwords":"未定义","collocation":"无约束"}
+{"_id":{"$oid":"5c8e382e5560e01c8049f0df"},"_class":"com.di.ifin.zeus.admin.bont.pojo.LanguageLat","ontname":"教师管理","evelatname":"555","triggerwords":"未定义","collocation":"无约束"}
+{"_id":{"$oid":"5c8f19985560e01df021b01c"},"_class":"com.di.ifin.zeus.admin.bont.pojo.LanguageLat","ontname":"教师管理","evelatname":"qwe","triggerwords":"未定义","collocation":"无约束"}

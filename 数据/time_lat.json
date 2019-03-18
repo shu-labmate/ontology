@@ -1,0 +1,1 @@
+{"_id":{"$oid":"5c862c15cc8c63809d8937cd"},"options":{},"indexes":[{"v":1,"key":{"_id":1},"name":"_id_","ns":"ontology.time_lat"}]}

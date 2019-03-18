@@ -1,0 +1,6 @@
+{"_id":{"$oid":"5c8e39c4bd80b6787a49e352"},"latname":"u","parentlatname":"root"}
+{"_id":{"$oid":"5c8e3aacbd80b6787a49e4ce"},"latname":"交通事故","parentlatname":"u"}
+{"_id":{"$oid":"5c8e3af6bd80b6787a49e565"},"latname":"36","parentlatname":"交通事故"}
+{"_id":{"$oid":"5c8e50bebd80b6787a4a07f4"},"latname":"rrt","parentlatname":"3233"}
+{"_id":{"$oid":"5c8e52c9bd80b6787a4a0c0f"},"latname":"kl;;","parentlatname":"3233"}
+{"_id":{"$oid":"5c8e6236bd80b6787a4a2918"},"latname":"aaa","parentlatname":"3233"}
